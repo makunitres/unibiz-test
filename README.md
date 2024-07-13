@@ -21,5 +21,5 @@
 ### Manager can see user table along with manager table and 'Go to manager page' button 
 <img src="https://i.ibb.co/BN7HKPk/Screenshot-2024-07-13-223730.png" alt='Manager Login'/>
 
-### After clicking on 'Go to admin page' button it will redirect to 'manager route/page'
+### After clicking on 'Go to manager page' button it will redirect to 'manager route/page'
 <img src="https://i.ibb.co/XyTy8rH/Screenshot-2024-07-13-223745.png" alt='Manager Page'/>
